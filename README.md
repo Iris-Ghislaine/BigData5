@@ -40,4 +40,4 @@ Thank you for using my application
 Screenshots of the output are included in the `outpScreenshots/` folder.
 Codes are included in the `codes/` folder.
 Questionare and Answersheet are includes in the `Q&A/` folder.
-Members Names of Members are included in `Members` file.
+Names of Members are included in `Members` file.

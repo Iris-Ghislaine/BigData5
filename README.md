@@ -37,6 +37,6 @@ Thank you for using my application
 ---
 
 ## Screenshots
-Screenshots of the output are included in the `outScreenshots/` folder.
+Screenshots of the output are included in the `outputScreenshots/` folder.
 Codes are included in the `codes/` folder.
 Questionare and Answersheet are includes in the `Q&A/` folder.
